@@ -42,10 +42,10 @@
 ![PawTech](images/1.png)
 
 ### Pets Insights
-![PawTech](images/1)
+![PawTech](images/2)
 
 ### Family Insights
-![PawTech](images/1)
+![PawTech](images/3)
 
 ## 🌟 KEY FEATURES
 + **🔖 Bookmarks and Drill-throughs:** Use bookmarks to switch visuals dynamically and drill-through capabilities for detailed data exploration.
