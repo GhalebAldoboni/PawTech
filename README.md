@@ -15,9 +15,23 @@
 ## ✅ PROJECT STEPS
 ✅ 1. Analyze the provided data model and business queries to identify relevant metrics.
 ✅ 2. Design and implement visualizations that answer the CEO’s questions, specifically focusing on the average daily steps and user satisfaction.
-✅ 3. Integrate demographic insights using varied visuals like bar charts, line charts, and more.
-✅ 4. Organize the report to highlight crucial findings, with key insights upfront followed by detailed demographic analysis.
+✅ 3. Integrate demographic insights using varied visuals like bar charts and line charts.
+✅ 4. Organize the report to highlight crucial findings, with key insights upfront, followed by detailed demographic analysis.
 ✅ 5. Adhere to the branding guidelines the Chief Marketing Officer specified throughout the visual presentation.
+## 🗂️ ORGANIZING THE REPORT
+### The report is organized according to the following guidelines:
+  * 📄 The first page should highlight the CEO’s business questions, specifically calling out the differences in average step count and average user rating (if any) between PawTrack and PawPurr devices.
+  * 🐾 The second page should focus on insights related to pets using the device.
+  * 👨‍👩‍👦 The third page should focus on insights related to the families that own the pets.
+### Home 
+#### It contains many visuals explaining the difference between Lapdog devices and Lapcat devices
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Home.png)
+
+### Pets Insights
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Pets-Insights.png)
+
+### Family Insights
+![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Family-Insights.png)
 
 ## 🌟 KEY FEATURES
 + **🔖 Bookmarks and Drill-throughs:** Use bookmarks to switch visuals dynamically and drill-through capabilities for detailed data exploration.
