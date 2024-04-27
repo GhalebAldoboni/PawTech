@@ -42,7 +42,7 @@
 ![PawTech](images/1.png)
 
 ### Pets Insights
-![PawTech](images/2)
+![PawTech](images/pets.png)
 
 ### Family Insights
 ![PawTech](images/3)
