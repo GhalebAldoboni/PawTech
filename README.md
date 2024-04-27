@@ -25,13 +25,13 @@
   * 👨‍👩‍👦 The third page should focus on insights related to the families that own the pets.
 ### Home 
 #### It contains many visuals explaining the difference between Lapdog devices and Lapcat devices
-![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Home.png)
+![PawTech](Screen Shot 2024-04-27 at 5.11.09 PM.png)
 
 ### Pets Insights
-![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Pets-Insights.png)
+![PawTech](Screen Shot 2024-04-27 at 5.11.09 PM.png)
 
 ### Family Insights
-![Building-a-PowerBI-Report-for-Waggle-Lapdog-VS-Labcat Data Moudel](Screenshots/Family-Insights.png)
+![PawTech](Screen Shot 2024-04-27 at 5.11.15 PM.png)
 
 ## 🌟 KEY FEATURES
 + **🔖 Bookmarks and Drill-throughs:** Use bookmarks to switch visuals dynamically and drill-through capabilities for detailed data exploration.
