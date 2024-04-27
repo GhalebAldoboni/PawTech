@@ -7,18 +7,6 @@
 🐱 Following the success of PawTrack, a revolutionary fitness collar for dogs, PawsTech is exploring a similar product for cats—PawPurr. Despite the triumph with dogs, there are uncertainties about its adaptation for cats. Consequently, the product team has field-tested 1,000 PawPurr prototypes. Our task was to develop a comprehensive Power BI report to compare the collected data with that from the PawTrack devices, providing insights that will influence the executive decision on whether to proceed with PawPurr's full-scale launch.
 
 ## 📑 BUSINESS REQUESTS
-+ 🏢 The CEO has posed critical questions that should be answered:
-  * Have cats wearing PawPurr increased their average daily steps as dogs did with PawTrack?
-  * Do PawPurr owners report the same level of satisfaction as PawTrack owners?
-+ 📊 The product team values insights on demographic differences between the pet owners and detailed information about their households. In the report, they recommend using advanced slicers for dynamic data exploration.
-
-# 🐾 PawsTech Smart Pet Devices Analysis Report
-#### 📘 A Data Visualization Project by Udacity
-
-## 📊 PROJECT OVERVIEW
-🐶 Following the success of PawTrack, a revolutionary fitness collar for dogs, PawsTech is exploring a similar product for cats—PawPurr. Despite the triumph with dogs, there are uncertainties about its adaptation for cats. Consequently, the product team has field-tested 1,000 PawPurr prototypes. Our task was to develop a comprehensive Power BI report to compare the collected data with that from the PawTrack devices, providing insights that will influence the executive decision on whether to proceed with PawPurr's full-scale launch.
-
-## 📑 BUSINESS REQUESTS
 + 🏢 The CEO has posed critical questions that need answers:
   * Have cats wearing PawPurr increased their average daily steps as dogs did with PawTrack?
   * Do PawPurr owners report the same level of satisfaction as PawTrack owners?
