@@ -13,11 +13,11 @@
 + 📊 The product team values insights on demographic differences between the pet owners and detailed information about their households. In the report, they recommend using advanced slicers for dynamic data exploration.
 
 ## ✅ PROJECT STEPS
-*✅ 1. Analyze the provided data model and business queries to identify relevant metrics.
-*✅ 2. Design and implement visualizations that answer the CEO’s questions, specifically focusing on the average daily steps and user satisfaction.
-*✅ 3. Integrate demographic insights using varied visuals like bar charts and line charts.
-*✅ 4. Organize the report to highlight crucial findings, with key insights upfront, followed by detailed demographic analysis.
-*✅ 5. Adhere to the branding guidelines the Chief Marketing Officer specified throughout the visual presentation.
+ *✅ 1. Analyze the provided data model and business queries to identify relevant metrics.
+ *✅ 2. Design and implement visualizations that answer the CEO’s questions, specifically focusing on the average daily steps and user satisfaction.
+ *✅ 3. Integrate demographic insights using varied visuals like bar charts and line charts.
+ *✅ 4. Organize the report to highlight crucial findings, with key insights upfront, followed by detailed demographic analysis.
+ *✅ 5. Adhere to the branding guidelines the Chief Marketing Officer specified throughout the visual presentation.
 ## 🗂️ ORGANIZING THE REPORT
 ### The report is organized according to the following guidelines:
   * 📄 The first page should highlight the CEO’s business questions, specifically calling out the differences in average step count and average user rating (if any) between PawTrack and PawPurr devices.
