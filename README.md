@@ -39,13 +39,13 @@
 
 ### Home 
 #### This section contains many visuals explaining the differences between Lapdog devices and Lapcat devices
-![PawTech](images/Screen Shot 2024-04-27 at 5.11.09 PM.png)
+![PawTech](images/1)
 
 ### Pets Insights
-![PawTech](images/Screen_Shot_2024-04-27_at_5.11.09_PM.png)
+![PawTech](images/1)
 
 ### Family Insights
-![PawTech](images/Screen_Shot_2024-04-27_at_5.11.15_PM.png)
+![PawTech](images/1)
 
 ## 🌟 KEY FEATURES
 + **🔖 Bookmarks and Drill-throughs:** Use bookmarks to switch visuals dynamically and drill-through capabilities for detailed data exploration.
