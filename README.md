@@ -1,5 +1,5 @@
 # 🐾 PawsTech Smart Pet Devices Analysis Report
-#### 📘 A Data Visualization Project by Udacity
+#### 📘 Data Visualization For  CSAI 453
 
 ## 📊 PROJECT OVERVIEW
 🐶 PawsTech's PawTrack, a dog fitness collar, has experienced significant success, prompting interest in developing a similar product for cats. To assess the feasibility of this venture, the product team conducted field testing of 1,000 PawPurr prototypes. The data collected was analyzed to address key questions the CEO posed and provide insights for decision-making.
