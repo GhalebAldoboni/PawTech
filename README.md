@@ -39,7 +39,7 @@
 
 ### Home 
 #### This section contains many visuals explaining the differences between Lapdog devices and Lapcat devices
-![PawTech](images/1)
+![PawTech](images/1.png)
 
 ### Pets Insights
 ![PawTech](images/1)
