@@ -1,5 +1,6 @@
 # 🐾 PawsTech Smart Pet Devices Analysis Report
 #### 📘 Data Visualization For  CSAI 453
+[Report Link](https://app.powerbi.com/links/yaML6OcJaQ?ctid=8644cd89-6ec4-47c4-9147-055c60b5ada2&pbi_source=linkShare&bookmarkGuid=a81de253-7d78-4d63-9e3a-cc8060065a0a)
 
 ## 📊 PROJECT OVERVIEW
 🐶 PawsTech's PawTrack, a dog fitness collar, has experienced significant success, prompting interest in developing a similar product for cats. To assess the feasibility of this venture, the product team conducted field testing of 1,000 PawPurr prototypes. The data collected was analyzed to address key questions the CEO posed and provide insights for decision-making.
