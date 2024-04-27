@@ -73,10 +73,11 @@ Thank you for reading, and we welcome your feedback!
 
 ## 🔍 DRILL-THROUGH FEATURES
 Implemented drill-through functionality focuses on specific entities such as pet types or demographic segments, allowing detailed examination within the context of the broader dataset.
+![PawTech](images/drill.png)
 
 ## 🧭 PAGE NAVIGATION
 Ease of navigation is ensured through strategically placed buttons across the report pages, enhancing the user experience with hover effects that indicate their functionality.
-
+![PawTech](images/nav.png)
 ## 🔎 INSIGHTS
 The initial analysis suggests that:
 + PawPurr may not match PawTrack regarding step increases or owner satisfaction.
